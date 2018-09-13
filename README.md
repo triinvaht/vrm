@@ -23,8 +23,6 @@ sudo apt-get install php7.2-cli
 sudo apt-get install php-sqlite3
 ```
 
-
-
 ### Installing
 
 To install the software you have following options:
@@ -32,7 +30,6 @@ To install the software you have following options:
 
 ```
 ```
-
 
 Then you need to have composer installed in your computer.
 And then you need to install composer packages in your project folder.
@@ -46,8 +43,6 @@ composer install
 * [Composer](https://getcomposer.org/) - Dependency Management
 * [Twig](http://twig.sensiolabs.org/) - Php template engine
 * [Doctrine DBAL](http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html) - Database connection
-
-
 
 
 ## Versioning
